@@ -1,0 +1,14 @@
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\bin\Debug\PubSubExample.exe.config
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\bin\Debug\PubSubExample.exe
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\bin\Debug\PubSubExample.pdb
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\bin\Debug\ServiceStack.Common.dll
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\bin\Debug\ServiceStack.Redis.dll
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\bin\Debug\ServiceStack.Text.dll
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\bin\Debug\ServiceStack.Common.xml
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\bin\Debug\ServiceStack.Redis.xml
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\bin\Debug\ServiceStack.Text.xml
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\obj\Debug\PubSubExample.csprojResolveAssemblyReference.cache
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\obj\Debug\PubSubExample.exe
+C:\Users\dscaramuzzi\Desktop\PubSubExample\PubSubExample\obj\Debug\PubSubExample.pdb
